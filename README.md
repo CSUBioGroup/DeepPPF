@@ -6,3 +6,6 @@ A deep learning framework for predicting protein family.
 3. Index the amino acids of the protein sequences by running the train_data_index.py and test_data_index.py files.
 4. Train and test the model by running the deepPPF.py file.
 5. Finetune the model by running the model_transfer.py file.
+# Data
+1. data.zip contains the GPCR and POG protein sequences.
+2. The COG protein can be downloaded at http://epigenomics.snu.ac.kr/DeepFam/data.zip
